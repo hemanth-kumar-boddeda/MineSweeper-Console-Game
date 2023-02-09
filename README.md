@@ -16,4 +16,8 @@ Copy code
 <h2>Gameplay</h2>
 The game starts with all cells covered. The player can uncover a cell by entering its coordinates (e.g. "1 2"). If the cell contains a mine, the game ends in failure. If the cell doesn't contain a mine, it will be uncovered and its number of neighboring mines will be displayed (e.g. "1" means that there is 1 mine in one of the 8 neighboring cells). If a cell has no neighboring mines, all its neighboring cells will be automatically uncovered. The game ends in victory if all cells that don't contain mines are uncovered.
 
+
+https://user-images.githubusercontent.com/82110100/217790726-5fff4c99-99da-4513-b604-897cebb667fe.mp4
+
+
 <h2>Have fun!</h2>
